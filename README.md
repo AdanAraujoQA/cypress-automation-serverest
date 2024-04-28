@@ -1,6 +1,6 @@
 # cypress-automation-serverest
 Introduction to the Automation Project on GitHub
-Hello everyone! I’m very excited to introduce our new automation project that is hosted on GitHub. This project is a test plan and an automation project for a website used to train software testing techniques.
+Hello everyone! I’m very excited to introduce our new automation project that is hosted on GitHub. This project is a test plan and an automation project for the ServeRest website used to train software testing techniques.
 
 **About the Project**
 This project is an initiative to automate a specific website with the aim of training software testing techniques. The website in question is a complex platform with various functionalities, making it an excellent candidate for practicing testing techniques.
