@@ -9,7 +9,7 @@ This project is an initiative to automate a specific website with the aim of tra
 The test plan is a crucial part of this project. It defines the strategy that will be followed during the testing phase and includes details about what will be tested, how it will be tested, who will perform the tests, and in what environment the tests will be conducted.
 
 
--**Test plan link:** https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing
+-**Test plan link:** https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing](https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing)
 
 **Automation**
 Automation is an essential part of this project. It allows us to perform tests more efficiently and effectively, saving time and resources. Automation also helps to avoid human errors that can occur during the testing process. That's why i doing this project using the automation framework Cypress(In the Test plan file have a justify for the choose of this framewokrk).
