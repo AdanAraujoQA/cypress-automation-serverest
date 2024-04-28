@@ -5,29 +5,29 @@
 Introduction to the Automation Project on GitHub
 Hello everyone! I’m very excited to introduce our new automation project that is hosted on GitHub. This project is a test plan and an automation project for the ServeRest website used to train software testing techniques.
 
-**About the Project**
+# **About the Project**
 This project is an initiative to automate a specific website with the aim of training software testing techniques. The website in question is a complex platform with various functionalities, making it an excellent candidate for practicing testing techniques.
 
-**Test Plan**
+# **Test Plan**
 The test plan is a crucial part of this project. It defines the strategy that will be followed during the testing phase and includes details about what will be tested, how it will be tested, who will perform the tests, and in what environment the tests will be conducted.
 
 
 -**Test plan link:** https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing
 
-**Automation**
+# **Automation**
 Automation is an essential part of this project. It allows us to perform tests more efficiently and effectively, saving time and resources. Automation also helps to avoid human errors that can occur during the testing process. That's why i doing this project using the automation framework Cypress(In the Test plan file have a justify for the choose of this framewokrk).
 
-**Training**
+# **Training**
 This project also serves as a training platform for those who are interested in learning and enhancing their software testing skills. It offers a unique opportunity for learners to familiarize themselves with various testing techniques and automation tools in a realistic environment.
 
 We are looking forward to seeing how this project will evolve and how it will help the software testing community to grow and develop. Feel free to contribute and be a part of this exciting journey!
 
 
 
-**Here’s a general guide on how you can contribute:**
+# **Here’s a general guide on how you can contribute:**
 
 
-**Fork the Repository:** The first step is to create a copy of the project on your own GitHub account. This can be done by clicking the ‘Fork’ button on the project’s GitHub page.
+**Fork the Repository**: The first step is to create a copy of the project on your own GitHub account. This can be done by clicking the ‘Fork’ button on the project’s GitHub page.
 
 **Clone the Repository:** Once you have forked the repository, you can clone it to your local machine using Git. This allows you to work on the project locally.
 
@@ -48,18 +48,18 @@ se aplicável, inclua quaisquer definições de configuração ou variáveis ​
 💢Diretrizes de contribuição:
 você pode incentivar a colaboração descrevendo como outras pessoas podem contribuir para o projeto.
 
-**#Relevant links:**
+# **Relevant links:**
 https://github.com/ServeRest/ServeRest
 
 
 
-**#Cypress**
+# **Cypress**
 Cypress is a next generation front end testing tool built for the modern web. For the dojo we going to do you need install first then we start ! 
 Install Cypress for Mac, Linux, or Windows, then get started.
 
 
 
-**INSTALLATION**
+# **INSTALLATION**
 
 **npm install cypress --save-dev**
 
@@ -77,7 +77,7 @@ This will install Cypress locally as a dev dependency for your project.
 
 
 
-**BEST PRACTICE**
+# **BEST PRACTICE**
 
 The recommended approach is to install Cypress with npm because:
 Cypress is versioned like any other dependency.
@@ -85,7 +85,7 @@ It simplifies running Cypress in Continuous Integration.
 
 
 
-**NOT USING NODE OR PACKAGE MANAGER** 
+# **NOT USING NODE OR PACKAGE MANAGER** 
 
 
 
@@ -96,7 +96,7 @@ Then you can manually unzip and double click. Cypress will run without needing t
 
 
 
-**LINUX PREREQUISITES**
+# **LINUX PREREQUISITES**
 
 
 
@@ -123,7 +123,7 @@ If you're using Linux, you'll want to have the required dependencies installed o
 
 
 
-**OPENING CYPRESS**
+# **OPENING CYPRESS**
 
 `cypress open`
 You can open Cypress from your project root one of the following ways:
