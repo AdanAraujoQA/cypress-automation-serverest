@@ -1,4 +1,4 @@
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)]
+![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)
 # **cypress-automation-serverest**
 
 Olá a todos! Estou muito animado para apresentar nosso novo projeto de automação que está hospedado no GitHub. Este projeto é um plano de teste e um projeto de automação para o site ServeRest usado para treinar técnicas de teste de software.
