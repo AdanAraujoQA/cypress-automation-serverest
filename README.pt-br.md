@@ -11,7 +11,7 @@ O plano de teste é uma parte crucial deste projeto. Ele define a estratégia qu
 -[**Link do plano de teste:**](https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing)
 
 # **Automação**
-A automação é uma parte essencial deste projeto. Ela nos permite realizar testes de forma mais eficiente e eficaz, economizando tempo e recursos. A automação também ajuda a evitar erros humanos que podem ocorrer durante o processo de teste. É por isso que estou fazendo este projeto usando o framework de automação Cypress (No arquivo do Plano de Teste tem uma justificativa para a escolha deste framework).
+A automação é uma parte essencial deste projeto. Ela nos permite realizar testes de forma mais eficiente e eficaz, economizando tempo e recursos. A automação também ajuda a evitar erros humanos que podem ocorrer durante o processo de teste. É por isso que estou fazendo este projeto usando o **framework de automação Cypress** (*No arquivo do Plano de Teste tem uma justificativa para a escolha deste framework*).
 
 # **Treinamento**
 Este projeto também serve como uma plataforma de treinamento para aqueles que estão interessados em aprender e aprimorar suas habilidades de teste de software. Ele oferece uma oportunidade única para os aprendizes se familiarizarem com várias técnicas de teste e ferramentas de automação em um ambiente realista.
