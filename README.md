@@ -104,38 +104,36 @@ If you're using Linux, you'll want to have the required dependencies installed o
 
 **(Ubuntu/Debian)**
 
-**apt-get install libgtk2.0-0 libgtk-3-0 libgbm-dev libnotify-dev libnss3 libxss1 libasound2 libxtst6 xauth xvfb**
-
+`apt-get install libgtk2.0-0 libgtk-3-0 libgbm-dev libnotify-dev libnss3 libxss1 libasound2 libxtst6 xauth xvfb`
 
 **(Arch)**
 
-**pacman -S gtk2 gtk3 alsa-lib xorg-server-xvfb libxss nss libnotify**
+`pacman -S gtk2 gtk3 alsa-lib xorg-server-xvfb libxss nss libnotify`
 
 
 **(CentOS)**
 
-**yum install -y xorg-x11-server-Xvfb gtk2-devel gtk3-devel libnotify-devel GConf2 nss libXScrnSaver alsa-lib**
+`yum install -y xorg-x11-server-Xvfb gtk2-devel gtk3-devel libnotify-devel GConf2 nss libXScrnSaver alsa-lib`
 
 
 
 **(Amazon Linux 2023)**
 
-**dnf install -y xorg-x11-server-Xvfb gtk3-devel nss alsa-lib**
+`dnf install -y xorg-x11-server-Xvfb gtk3-devel nss alsa-lib`
 
 
 
 **OPENING CYPRESS**
 
-
-cypress open
+`cypress open`
 You can open Cypress from your project root one of the following ways:
 
-**Using npx**
+**Using** `npx`
 
-**npx cypress open**
+`npx cypress open`
 
-**Using yarn**
+**Using** `yarn`
 
-**yarn run cypress open**
+`yarn run cypress open`
 
 After a moment, the Cypress Launchpad will open.
