@@ -36,7 +36,9 @@ Estamos ansiosos para ver como este projeto evoluirá e como ele ajudará a comu
 
 💢Uso e exemplos: forneça código de amostra ou cenários de uso para mostrar como o projeto funciona. 💢Detalhes de configuração: se aplicável, inclua quaisquer definições de configuração ou variáveis ​​de ambiente. 💢Diretrizes de contribuição: você pode incentivar a colaboração descrevendo como outras pessoas podem contribuir para o projeto.
 
-# **Links relevantes:** https://github.com/ServeRest/ServeRest
+# **Links relevantes:**
+**DOCUMENTAÇÃO DO SERVEREST**
+ https://github.com/ServeRest/ServeRest
 
 # **Cypress** 
 Cypress é uma ferramenta de teste de front-end de próxima geração construída para a web moderna. Para o dojo que vamos fazer, você precisa instalar primeiro e depois começamos! Instale o Cypress para Mac, Linux ou Windows e depois comece.
