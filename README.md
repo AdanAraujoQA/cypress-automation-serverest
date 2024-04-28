@@ -2,7 +2,6 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/4dan1/cypress-automation-serverest/blob/main/README.pt-br.md)
 
 # cypress-automation-serverest
-Introduction to the Automation Project on GitHub
 Hello everyone! I’m very excited to introduce our new automation project that is hosted on GitHub. This project is a test plan and an automation project for the ServeRest website used to train software testing techniques.
 
 # **About the Project**
