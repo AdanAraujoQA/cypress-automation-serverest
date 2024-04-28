@@ -14,7 +14,7 @@ The test plan is a crucial part of this project. It defines the strategy that wi
 -**Test plan link:** https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing
 
 # **Automation**
-Automation is an essential part of this project. It allows us to perform tests more efficiently and effectively, saving time and resources. Automation also helps to avoid human errors that can occur during the testing process. That's why i doing this project using the automation framework Cypress(In the Test plan file have a justify for the choose of this framewokrk).
+Automation is an essential part of this project. It allows us to perform tests more efficiently and effectively, saving time and resources. Automation also helps to avoid human errors that can occur during the testing process. That's why i doing this project using the **automation framework Cypress**(*In the Test plan file have a justify for the choose of this framewokrk*).
 
 # **Training**
 This project also serves as a training platform for those who are interested in learning and enhancing their software testing skills. It offers a unique opportunity for learners to familiarize themselves with various testing techniques and automation tools in a realistic environment.
