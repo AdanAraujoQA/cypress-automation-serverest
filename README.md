@@ -7,6 +7,8 @@ This project is an initiative to automate a specific website with the aim of tra
 
 **Test Plan**
 The test plan is a crucial part of this project. It defines the strategy that will be followed during the testing phase and includes details about what will be tested, how it will be tested, who will perform the tests, and in what environment the tests will be conducted.
+
+
 -**Test plan link:** https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing
 
 **Automation**
@@ -16,6 +18,25 @@ Automation is an essential part of this project. It allows us to perform tests m
 This project also serves as a training platform for those who are interested in learning and enhancing their software testing skills. It offers a unique opportunity for learners to familiarize themselves with various testing techniques and automation tools in a realistic environment.
 
 We are looking forward to seeing how this project will evolve and how it will help the software testing community to grow and develop. Feel free to contribute and be a part of this exciting journey!
+
+
+
+**Here’s a general guide on how you can contribute:**
+
+
+**Fork the Repository:** The first step is to create a copy of the project on your own GitHub account. This can be done by clicking the ‘Fork’ button on the project’s GitHub page.
+
+**Clone the Repository:** Once you have forked the repository, you can clone it to your local machine using Git. This allows you to work on the project locally.
+
+**Create a New Branch:** It’s a good practice to create a new branch for each new feature or bug fix you’re working on. This keeps your changes organized and separated from the main project.
+
+**Make Your Changes:** Now you can start making changes to the project. This could involve adding new features, fixing bugs, improving documentation, etc.
+
+**Commit Your Changes:** After you’ve made your changes, you need to commit them to your local repository. Make sure to write a clear and descriptive commit message.
+
+**Push Your Changes:** Once you’ve committed your changes, you can push them to your forked repository on GitHub.
+
+**Submit a Pull Request:** The final step is to submit a pull request (PR) to the original repository. This allows the project maintainers to review your changes. If they approve your changes, they will merge them into the main project.
 
 💢Uso e exemplos:
 forneça código de amostra ou cenários de uso para mostrar como o projeto funciona.
