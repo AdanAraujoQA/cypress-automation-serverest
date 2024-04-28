@@ -1,6 +1,8 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/4dan1/cypress-automation-serverest/blob/main/README.pt-br.md)
-[![Static Badge](https://img.shields.io/badge/Documentation-blue)](https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing)
+[![Static Badge](https://img.shields.io/badge/DocumentationPtBr-green)](https://docs.google.com/document/d/1Ft_UKhrokauGOt_TXqT8xtt5NQXgYrQopkjrFm4rwE4/edit?usp=sharing)
+[![Static Badge](https://img.shields.io/badge/DocumentationEN-red)](https://docs.google.com/document/d/17UI-bSykc_EDUbPMcCSsUH5SdL0l-VWZo0EE8JQOybg/edit?usp=sharing)
+
 # cypress-automation-serverest
 Hello everyone! I’m very excited to introduce our new automation project that is hosted on GitHub. This project is a test plan and an automation project for the ServeRest website used to train software testing techniques.
 
