@@ -1,0 +1,15 @@
+{
+  "name": "cypress-automation-serverest",
+  "version": "1.0.0",
+  "description": "![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)\r # **cypress-automation-serverest**",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
