@@ -4,6 +4,7 @@
   "description": "![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)\r # **cypress-automation-serverest**",
   "main": "index.js",
   "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
     "cypress": "^13.8.1"
   },
   "scripts": {
@@ -11,5 +12,6 @@
   },
   "author": "",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {}
 }
