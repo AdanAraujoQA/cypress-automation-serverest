@@ -1,0 +1,21 @@
+{"users":
+    [
+        {
+            "userAdmin":
+            {
+                "name": "Adan Araujo de Souza",
+                "email": "adanaraujo.souza@email.com",
+                "password": "Adannoah55"
+            }
+        },
+        
+        {    
+            "userDefault":
+            {
+                "name": "João Da Silva",
+                "email": "joado.silva@email.com",
+                "password": "JoaoSilva55"
+            }
+        }
+    ]
+}
