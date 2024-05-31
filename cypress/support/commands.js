@@ -33,15 +33,25 @@ Cypress.Commands.add('registerNewUser',  (username, email, userPassword, role) =
   //       const userId = response.body._id;
   //       console.log(userId); // imprime o ID do usuário
   //     });
+  
   Cypress.Commands.add('randomUser', () =>{
-    const fakerRandomNumber = faker.number.int({ max: 999 });
-          faker.seed(fakerRandomNumber);
-          const email = faker.internet.email();
-          const fullName = faker.name.fullName()
-          const password = faker.internet.password()
-          cy.registerNewUser(fullName,email,password, 'true').then((responseDados)=>{
-          console.log(responseDados);
-          })
+        let fakerRandomNumber = faker.number.int({ max: 999 });
+        let fakerSeed = faker.seed(fakerRandomNumber);
+        const email = faker.internet.email();
+        const fullName = faker.name.fullName()
+        const password = faker.internet.password()
+        console.log(email, fullName, password);
+
+        return {
+          email: email,
+          fullName: fullName,
+          password: password,
+          fakerSeed: fakerSeed
+      };
+  
+          // cy.registerNewUser(fullName,email,password, 'true').then((responseDados)=>{
+          // console.log(responseDados);
+          // })
          
   })  
   
