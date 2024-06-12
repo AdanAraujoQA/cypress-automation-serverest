@@ -5,13 +5,19 @@
   "main": "index.js",
   "devDependencies": {
     "@faker-js/faker": "^8.4.1",
-    "cypress": "^13.8.1"
+    "cypress": "^13.8.1",
+    "cypress-image-diff-html-report": "^2.1.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "vrtStartReport": "cypress-image-diff-html-report start",
+    "vrtGenerateReport": "cypress-image-diff-html-report generate",
+    "cypress:run": "npx cypress run ./node_modules/.bin/",
+    "cypress:open": "npx cypress open ./node_modules/.bin/"    
   },
-  "author": "",
+  "author": "Adan Araujo Souza",
   "license": "ISC",
-  "keywords": [],
-  "dependencies": {}
+  "keywords": ["Cypress"],
+  "dependencies": {
+    "cypress-image-diff-js": "^2.2.1"
+  }
 }

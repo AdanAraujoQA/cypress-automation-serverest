@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "cypress:open",
+			"problemMatcher": [],
+			"label": "npm: cypress:open",
+			"detail": "npx cypress open ./node_modules/.bin/",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		}
+	]
+}

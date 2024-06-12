@@ -1,0 +1,31 @@
+{
+  "total": 1,
+  "totalPassed": 0,
+  "totalFailed": 1,
+  "totalSuites": 1,
+  "suites": [
+    {
+      "name": "login_M_Scenarios.cy.js",
+      "path": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+      "tests": [
+        {
+          "status": "fail",
+          "name": "login_M_Scenarios.cy-login-page",
+          "percentage": 0.43024160070325984,
+          "failureThreshold": 0,
+          "specPath": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+          "specFilename": "login_M_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_M_Scenarios.cy-login-page.png",
+          "diffPath": "cypress-image-diff-screenshots\\diff\\login_M_Scenarios.cy-login-page.png",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_M_Scenarios.cy-login-page.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2024-06-07T17:35:36.463Z",
+  "endedAt": "2024-06-07T17:36:30.862Z",
+  "duration": 36764,
+  "browserName": "electron",
+  "browserVersion": "118.0.5993.159",
+  "cypressVersion": "13.8.1"
+}

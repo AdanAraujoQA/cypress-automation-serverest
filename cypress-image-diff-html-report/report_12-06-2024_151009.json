@@ -1,0 +1,92 @@
+{
+  "total": 6,
+  "totalPassed": 5,
+  "totalFailed": 1,
+  "totalSuites": 2,
+  "suites": [
+    {
+      "name": "login_Alternative_Scenarios.cy.js",
+      "path": "cypress\\e2e\\alternative_scenarios\\login_Alternative_Scenarios.cy.js",
+      "tests": [
+        {
+          "status": "fail",
+          "name": "login_Alternative_Scenarios.cy-compare-After-Click",
+          "percentage": 0.13361264603803993,
+          "failureThreshold": 0,
+          "specPath": "cypress\\e2e\\alternative_scenarios\\login_Alternative_Scenarios.cy.js",
+          "specFilename": "login_Alternative_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_Alternative_Scenarios.cy-compare-After-Click.png",
+          "diffPath": "cypress-image-diff-screenshots\\diff\\login_Alternative_Scenarios.cy-compare-After-Click.png",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_Alternative_Scenarios.cy-compare-After-Click.png"
+        }
+      ]
+    },
+    {
+      "name": "login_M_Scenarios.cy.js",
+      "path": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+      "tests": [
+        {
+          "status": "pass",
+          "name": "login_M_Scenarios.cy-Home-page-Icon",
+          "percentage": 0,
+          "failureThreshold": 0.4,
+          "specPath": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+          "specFilename": "login_M_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_M_Scenarios.cy-Home-page-Icon.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_M_Scenarios.cy-Home-page-Icon.png"
+        },
+        {
+          "status": "pass",
+          "name": "login_M_Scenarios.cy-Email-field",
+          "percentage": 0.3083874411398977,
+          "failureThreshold": 0.4,
+          "specPath": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+          "specFilename": "login_M_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_M_Scenarios.cy-Email-field.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_M_Scenarios.cy-Email-field.png"
+        },
+        {
+          "status": "pass",
+          "name": "login_M_Scenarios.cy-Password-field",
+          "percentage": 0.3145764348029479,
+          "failureThreshold": 0.4,
+          "specPath": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+          "specFilename": "login_M_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_M_Scenarios.cy-Password-field.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_M_Scenarios.cy-Password-field.png"
+        },
+        {
+          "status": "pass",
+          "name": "login_M_Scenarios.cy-Login-Button",
+          "percentage": 0.47875100457674996,
+          "failureThreshold": 0.5,
+          "specPath": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+          "specFilename": "login_M_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_M_Scenarios.cy-Login-Button.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_M_Scenarios.cy-Login-Button.png"
+        },
+        {
+          "status": "pass",
+          "name": "login_M_Scenarios.cy-Baseboard-Text",
+          "percentage": 0,
+          "failureThreshold": 0.4,
+          "specPath": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+          "specFilename": "login_M_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_M_Scenarios.cy-Baseboard-Text.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_M_Scenarios.cy-Baseboard-Text.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2024-06-12T18:10:09.268Z",
+  "endedAt": "2024-06-12T18:11:13.962Z",
+  "duration": 44355,
+  "browserName": "electron",
+  "browserVersion": "118.0.5993.159",
+  "cypressVersion": "13.8.1"
+}

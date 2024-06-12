@@ -1,0 +1,48 @@
+{
+  "total": 2,
+  "totalPassed": 0,
+  "totalFailed": 2,
+  "totalSuites": 2,
+  "suites": [
+    {
+      "name": "login_Alternative_Scenarios.cy.js",
+      "path": "cypress\\e2e\\alternative_scenarios\\login_Alternative_Scenarios.cy.js",
+      "tests": [
+        {
+          "status": "pass",
+          "name": "login_Alternative_Scenarios.cy-compare-After-Click",
+          "percentage": 0,
+          "failureThreshold": 0,
+          "specPath": "cypress\\e2e\\alternative_scenarios\\login_Alternative_Scenarios.cy.js",
+          "specFilename": "login_Alternative_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_Alternative_Scenarios.cy-compare-After-Click.png",
+          "diffPath": "",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_Alternative_Scenarios.cy-compare-After-Click.png"
+        }
+      ]
+    },
+    {
+      "name": "login_M_Scenarios.cy.js",
+      "path": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+      "tests": [
+        {
+          "status": "fail",
+          "name": "login_M_Scenarios.cy-Home-page-Icon",
+          "percentage": 0.3385372032975533,
+          "failureThreshold": 0,
+          "specPath": "cypress\\e2e\\main_scenarios\\login_M_Scenarios.cy.js",
+          "specFilename": "login_M_Scenarios.cy.js",
+          "baselinePath": "cypress-image-diff-screenshots\\baseline\\login_M_Scenarios.cy-Home-page-Icon.png",
+          "diffPath": "cypress-image-diff-screenshots\\diff\\login_M_Scenarios.cy-Home-page-Icon.png",
+          "comparisonPath": "cypress-image-diff-screenshots\\comparison\\login_M_Scenarios.cy-Home-page-Icon.png"
+        }
+      ]
+    }
+  ],
+  "startedAt": "2024-06-11T14:16:39.990Z",
+  "endedAt": "2024-06-11T14:17:51.500Z",
+  "duration": 39823,
+  "browserName": "electron",
+  "browserVersion": "118.0.5993.159",
+  "cypressVersion": "13.8.1"
+}
