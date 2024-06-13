@@ -1,7 +1,7 @@
 describe("Cypress Exception Handling", () => {
   Cypress.on("fail", (err, runnable) => {
     cy.log(err.message);
-    return false;
+    return false
   });
 
 
@@ -11,13 +11,13 @@ context('Login page with non registered user alternative scenarios', function ()
     cy.randomUser().then((user) => {
     cy.get('input[data-testid="email"]').type(user.fullName,{force: true});
     cy.get('input[data-testid="senha"]').type('senha');
-    });
+    });//teste
     cy.get('[data-testid="entrar"]').click();
     cy.log('Asserção para garantir que usuário não registrado não é redirecionado para a tela incial de usuário logado');
     cy.url().should('not.include', 'https://front.serverest.dev/admin/home');
     cy.compareSnapshot('compare-After-Click');   
     cy.get(".error-message").should("be.visible");
-       
+      
   }); 
   it('Cenary 2 - login with non registred user', function () {
     cy.visit('/');
